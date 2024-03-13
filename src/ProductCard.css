@@ -1,0 +1,8 @@
+.ProductCard{
+  border: 1px solid black;
+  border-radius: 14px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 180px;
+  height: 150px;
+}
